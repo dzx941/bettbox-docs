@@ -1,0 +1,14 @@
+comment:
+  label: 锐评
+  permalink: /comment
+  description: 对一些软件较尖锐的评论。
+
+mihomo:
+  label: Mihomo
+  permalink: /mihomo
+  description: Mihomo 相关内容。
+
+bettbox:
+  label: Bettbox
+  permalink: /bettbox
+  description: Bettbox 官方
