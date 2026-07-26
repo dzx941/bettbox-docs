@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '稳定高效，开箱即用',
+    title: '稳定高效',
     Svg: require('@site/static/img/undraw_link_mountain.svg').default,
     description: (
       <>
@@ -13,11 +13,11 @@ const FeatureList = [
     ),
   },
   {
-    title: '稳定可靠',
+    title: '可靠易用',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-         基于 Mihomo 内核，拥有优秀的性能与稳定性
+         基于 Mihomo 内核，拥有优秀的稳定性与易用性
       </>
     ),
   },
