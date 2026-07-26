@@ -70,4 +70,4 @@ Bettbox 内置了轻量化的 YAML 编辑器，允许你直接微调配置。
 
 ---
 
-[返回总指南](guide/README.md) | [前往应用分流设置](guide/apps.md)
+[返回总指南](./index.md) | [前往应用分流设置](guide/apps.md)
