@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '稳定高效，开箱即用',
-    Svg: require('@site/static/img/feature-speed.svg').default,
+    Svg: require('@site/static/img/undraw_link_mountain.svg').default,
     description: (
       <>
         提供优化后的 TUN/VPN 体验，兼顾 ARM64 性能、低占用和多平台稳定运行，新手也可快速上手
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: '稳定可靠',
-    Svg: require('@site/static/img/feature-security.svg').default,
+    Svg: require('@site/static/img/undraw_docusauruss_tree.svg').default,
     description: (
       <>
          基于 Mihomo 内核，拥有优秀的性能与稳定性
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '高度自定义，持续维护',
-    Svg: require('@site/static/img/feature-platform.svg').default,
+    Svg: require('@site/static/img/undraw_link_mountain.svg').default,
     description: (
       <>
         支持主题、图标、组件等个性化设置，兼容旧设备，开源透明，并积极响应社区反馈持续优化
