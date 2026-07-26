@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: '稳定可靠',
-    Svg: require('@site/static/img/undraw_docusauruss_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
          基于 Mihomo 内核，拥有优秀的性能与稳定性
