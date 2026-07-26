@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '高度自定义，持续维护',
-    Svg: require('@site/static/img/undraw_link_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_Bettbox_Flutter.svg').default,
     description: (
       <>
         支持主题、图标、组件等个性化设置，兼容旧设备，开源透明，并积极响应社区反馈持续优化
